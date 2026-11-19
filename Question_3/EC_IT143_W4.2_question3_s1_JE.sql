@@ -1,0 +1,1 @@
+-- Q3: How many purchases did Marge make?
