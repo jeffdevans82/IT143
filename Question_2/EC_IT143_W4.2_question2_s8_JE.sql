@@ -1,0 +1,5 @@
+-- Q2: How many players named Jaun play for the league?
+
+-- A2: Let's do a query to find all the Juan's...
+
+EXEC dbo.usp_juan_count;

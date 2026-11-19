@@ -1,0 +1,1 @@
+-- Q2: How many players named Jaun play for the league?
